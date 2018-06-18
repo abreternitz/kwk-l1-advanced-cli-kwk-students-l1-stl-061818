@@ -26,10 +26,13 @@ ls;
   
 //snax
   mv delivery/fig_bars.txt snax/fig_bars.txt
+  mv delivery/goldfish.txt snax/goldfish.txt
+  mv delivery/
 
 //veggies
   mv delivery/broccoli.txt veggies/broccoli.txt
   mv delivery/carrots.txt veggies/carrots.txt
-  mv delivery/
+  mv delivery/garlic.txt veggies/garlic.txt
+  
 
 ls
