@@ -26,12 +26,15 @@ ls;
   mv delivery/hotdogs.txt meat/hotdogs.txt
   mv delivery/lamb_ribs.txt meat/lamb_ribs.txt
   mv delivery/lean_cusine.txt meat/lean_cusine.txt
-  mv delivery/
+  mv delivery/salmon_steak.txt meat/salmon_steak.txt
+  mv delivery/turkey_breast.txt
   
 //snax
   mv delivery/fig_bars.txt snax/fig_bars.txt
   mv delivery/goldfish.txt snax/goldfish.txt
   mv delivery/mint_milano_cookies.txt snax/mint_milano_cookies.txt
+  mv delivery/oreos.txt snax/oreos.txt
+  mv delivery/trail_mix.txt snax/trail_mix.txt
   mv delivery/
 
 //veggies
@@ -40,6 +43,8 @@ ls;
   mv delivery/garlic.txt veggies/garlic.txt
   mv delivery/leeks.txt veggies/leeks.txt
   mv delivery/onion.txt veggies/onion.txt
-  mv delivery
+  mv delivery/potatoes.txt veggies/potatoes.txt
+  mv delivery/tomatoes.txt veggies/tomatoes.txt
+  
 
 ls
