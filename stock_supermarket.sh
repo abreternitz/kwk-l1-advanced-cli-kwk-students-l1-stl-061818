@@ -42,6 +42,12 @@ ls;
   mv delivery/tomatoes.txt veggies/tomatoes.txt
   
   grep -r Winston
-  
+  grep -r gorp
+  grep -r gluten
+  grep -r grapes
+  grep -r vampire
+  grep -r canteloupe
+  grep -r youtube
+  grep -r sprinkles
 
 ls
