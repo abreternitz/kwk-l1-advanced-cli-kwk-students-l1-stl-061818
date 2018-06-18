@@ -24,6 +24,12 @@ ls;
   mv delivery/bison_burgers.txt meat/bison_burgers.txt
   mv delivery/
   
-//
+//snax
+  mv delivery/fig_bars.txt snax/fig_bars.txt
+
+//veggies
+  mv delivery/broccoli.txt veggies/broccoli.txt
+  mv delivery/carrots.txt veggies/carrots.txt
+  mv delivery/
 
 ls
