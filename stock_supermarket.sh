@@ -41,6 +41,8 @@ ls;
   mv delivery/potatoes.txt veggies/potatoes.txt
   mv delivery/tomatoes.txt veggies/tomatoes.txt
   
-  grep -r 
+  grep -r Winston Churchill 
+    
+  
 
 ls
