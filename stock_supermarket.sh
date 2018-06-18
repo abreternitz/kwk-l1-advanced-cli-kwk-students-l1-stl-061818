@@ -17,6 +17,10 @@ ls;
   mv
   
 //fruit
-  mv delivery/apples.txt
-mv delivery
+  mv delivery/apples.txt fruit/apples.txt
+  mv delivery/
+  
+//meat
+  mv delivery/bison_burgers.txt
+
 ls
