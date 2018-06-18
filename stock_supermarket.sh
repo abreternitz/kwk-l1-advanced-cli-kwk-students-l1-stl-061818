@@ -41,7 +41,7 @@ ls;
   mv delivery/potatoes.txt veggies/potatoes.txt
   mv delivery/tomatoes.txt veggies/tomatoes.txt
   
-  grep -r Winston Churchill kwk-l1-advanced-cli-kwk-students-li-stl-061818
+  grep -r Winston kwk-l1-advanced-cli-kwk-students-li-stl-061818
     
   
 
