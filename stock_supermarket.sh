@@ -25,17 +25,21 @@ ls;
   mv delivery/bison_burgers.txt meat/bison_burgers.txt
   mv delivery/hotdogs.txt meat/hotdogs.txt
   mv delivery/lamb_ribs.txt meat/lamb_ribs.txt
+  mv delivery/lean_cusine.txt meat/lean_cusine.txt
   mv delivery/
   
 //snax
   mv delivery/fig_bars.txt snax/fig_bars.txt
   mv delivery/goldfish.txt snax/goldfish.txt
+  mv delivery/mint_milano_cookies.txt snax/mint_milano_cookies.txt
   mv delivery/
 
 //veggies
   mv delivery/broccoli.txt veggies/broccoli.txt
   mv delivery/carrots.txt veggies/carrots.txt
   mv delivery/garlic.txt veggies/garlic.txt
-  
+  mv delivery/leeks.txt veggies/leeks.txt
+  mv delivery/onion.txt veggies/onion.txt
+  mv delivery
 
 ls
